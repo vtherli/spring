@@ -33,7 +33,6 @@ public class BaseController
 		
 		request.setAttribute("name", "Vasumithra Therl");
 		request.setAttribute("town", "Chennai");
-		
 		return "home";
 	}
 	
